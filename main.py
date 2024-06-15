@@ -1,1 +1,1 @@
-print("Rindu masa kecil")
+print("Rindu masa kecil :)")
