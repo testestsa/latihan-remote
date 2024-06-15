@@ -1,0 +1,1 @@
+print("Rindu masa kecil")
